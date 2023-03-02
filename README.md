@@ -15,6 +15,17 @@ I'm not an enemy of any technology, but I am a Ruby on Rails enthusiast.
 - Search for a planet, on a starship Enterprise, that has a colony of hobbits to vacation on
 
 ---
+<table>
+  <tr>
+    <td valign="top"><video src="https://user-images.githubusercontent.com/19538846/222456160-6e128b5a-abca-459a-ac7e-74e2f01c66e1.mp4" data-canonical-src="https://user-images.githubusercontent.com/19538846/222456160-6e128b5a-abca-459a-ac7e-74e2f01c66e1.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px"></video></td>
+    <td valign="top"><video src="https://user-images.githubusercontent.com/19538846/222456302-41807170-00da-47cb-a878-743840558165.mp4" data-canonical-src="https://user-images.githubusercontent.com/19538846/222456302-41807170-00da-47cb-a878-743840558165.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px"></video></td>
+  </tr>
+  <tr>
+    <td><div align="center"><a href="https://open.spotify.com/track/0MwitR6EAeWqA5tWL4uFvK?si=0050cace77fd41de" rel="nofollow">Diz</a></div></td>
+    <td><div align="center"><a href="https://open.spotify.com/track/3JnXLE2aYxWDPk1OoFHieV?si=720fbcdc54094ca3" rel="nofollow">Depois da Guerra</a></div></td>
+  </tr>
+</table>
+
 > <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Music_font_awesome.svg" width="32"> 
 > 
 > Do you know the musical genre [Manguebeat](https://open.spotify.com/playlist/630UFTEXZPxnRmG7mdqGgW)?
